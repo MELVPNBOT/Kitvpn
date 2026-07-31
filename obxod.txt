@@ -1,0 +1,5 @@
+#profile-title: КитВПН⚡
+#profile-update-interval: 1
+#support-url: https://t.me/KitVPNchannel
+#announce: base64:0JrQuNGC0JLQn9CdIC0g0L7QsdGF0L7QtNC4INCx0LXQu9GL0LUg0YHQv9C40YHQutC44pqhCtCR0YvRgdGC0YDRi9C1INGB0LXRgNCy0LXRgNCwINC4INCx0LXRgdC/0LvQsNGC0L3Ri9C5INCy0L/QvQ==
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
